@@ -5,13 +5,9 @@
 
 - 🔭 Actualmente estoy trabajando en **Desarrollo con asp .net core**
 
-- 🌱 I’m currently learning **GO**
+- 🌱 Actualmente estoy aprendiendo  **Asp .Net Core, Kotlin**
 
-- 💬 Ask me about **Java , MEARN**
-
-- 📫 How to reach me **[aquispe.dev@gmail.com](mailto:aquispe.dev@gmail.com)**
-
-- 📌 Personal website [amsoft.dev](https://amsoft.dev)
+- 📌 Web Personal
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
