@@ -42,9 +42,9 @@
 <div align='left' >
   <ul style="list-style: none;padding:0px" >
     <li>
-        <a href="https://linkedin.com/in/amadorquispe" target="_blank">
+        <a href="https://linkedin.com/in/borjadelgadoalcolea" target="_blank">
           <img
-            src="https://img.shields.io/badge/linkedin:  amadorquispe-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white"
+            src="https://img.shields.io/badge/linkedin:  borjadelgado-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white"
             alt="linkedin"/>
         </a>
     </li>
