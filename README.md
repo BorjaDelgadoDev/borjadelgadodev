@@ -1,9 +1,7 @@
-<br>
 <h1 align="center"><b>Hola 👋, Soy Borja Delgado Alcolea  💻</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h3 align="center">A passionate backend y frontend developer from Perú</h3>
 
-## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width=50> </picture> **Sobre mi**
-<br>
+## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width=50> **Sobre mi**
 
 - 🔭 Actualmente estoy trabajando en **Desarrollo con asp .net core**
 
@@ -11,17 +9,17 @@
 
 - 💬 Ask me about **Java , MEARN**
 
-- 📫 How to reach me **aquispe.dev@gmail.com**
+- 📫 How to reach me **[aquispe.dev@gmail.com](mailto:aquispe.dev@gmail.com)**
 
 - 📌 Personal website [amsoft.dev](https://amsoft.dev)
 
-
 <br>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
 <br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"/> **Skills**
-<br>
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
 
@@ -32,11 +30,15 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 <br>
+
 -----
+
 <br>
+
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80"/>
-<br>
+
 -----
+
 <div align='left' >
   <ul style="list-style: none;padding:0px" >
     <li>
@@ -48,20 +50,20 @@
     </li>
     <br>
     <li>
-      <a href="https://twitter.com/aquispeh" target="_blank">
-        <img
-          src="https://img.shields.io/badge/twitter:  amadorquispe-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white"
-          alt="twitter"/>
-      </a>
+        <a href="mailto:borjadelgadodev@gmail.com">
+          <img
+            src="https://img.shields.io/badge/email:%20borjadelgadodev@gmail.com-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=gmail&logoColor=white"
+            alt="email"/>
+        </a>
     </li>
     <br>
   </ul>
 </div>
 
 <br>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <br>
 
 
-Connect with me: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](www.linkedin.com/in/borjadelgadoalcolea)  
-borjadelgadodev@gmail.com
