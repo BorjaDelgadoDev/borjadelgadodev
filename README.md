@@ -1,5 +1,5 @@
 <h1 align="center"><b>Hola 👋, Soy Borja Delgado Alcolea  💻</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h3 align="center">A passionate backend y frontend developer from Perú</h3>
+<h3 align="center">Apasionado de la tecnología</h3>
 
 ## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width=50> **Sobre mi**
 
@@ -13,7 +13,6 @@
 
 - 📌 Personal website [amsoft.dev](https://amsoft.dev)
 
-<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
