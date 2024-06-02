@@ -3,11 +3,12 @@
 
 ## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width=50> **Sobre mi**
 
+- Apasionado de la tecnología, con ganas de poner en practica todos mis conocimientos adquiridos.
+Me gusta trabajar en equipo y dar lo máximo de mi.
+
 - 🔭 Actualmente estoy trabajando en **Desarrollo con asp .net core**
 
 - 🌱 Actualmente estoy aprendiendo  **Asp .Net Core, Kotlin**
-
-- 📌 Web Personal
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
