@@ -6,7 +6,7 @@
 - Apasionado de la tecnología, con ganas de poner en practica todos mis conocimientos adquiridos.
 Me gusta trabajar en equipo y dar lo máximo de mi.
 
-- 🔭 Actualmente estoy trabajando en **Desarrollo con asp .net core**
+- 🔭 Actualmente estoy trabajando en **Desarrollo .NET**
 
 - 🌱 Actualmente estoy aprendiendo  **Asp .Net Core, Kotlin**
 
