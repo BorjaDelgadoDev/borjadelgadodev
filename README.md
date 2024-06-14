@@ -6,9 +6,8 @@
 - Apasionado de la tecnología, con ganas de poner en practica todos mis conocimientos adquiridos.
 Me gusta trabajar en equipo y dar lo máximo de mi.
 
-- 🔭 Actualmente estoy trabajando en **Desarrollo .NET**
 
-- 🌱 Actualmente estoy aprendiendo  **Asp .Net Core, Kotlin**
+- 🌱 Actualmente estoy aprendiendo  **Android Studio, Kotlin, Jetpack Compose**
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
