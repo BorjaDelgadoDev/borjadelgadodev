@@ -1,6 +1,8 @@
 <h1 align="center">¡Hola! Soy Borja Delgado Alcolea 💻 👋</h1> 
 
-## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width=50> **Sobre mí**
+## Sobre mí
+
+<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50" alt="Sobre mí">
 
 - Apasionado de la tecnología, con ganas de poner en práctica todos mis conocimientos adquiridos. Me gusta trabajar en equipo y dar lo máximo de mí.
 - 🔭 Actualmente estoy trabajando en ""
