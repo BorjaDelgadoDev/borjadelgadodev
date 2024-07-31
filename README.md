@@ -1,8 +1,6 @@
 <h1 align="center">¡Hola! Soy Borja Delgado Alcolea 💻 👋</h1> 
 
-## Sobre mí
-
-<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50" alt="Sobre mí">
+## Sobre mí <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50" alt="Sobre mí">
 
 - Apasionado de la tecnología, con ganas de poner en práctica todos mis conocimientos adquiridos. Me gusta trabajar en equipo y dar lo máximo de mí.
 - 🔭 Actualmente estoy trabajando en ""
@@ -12,8 +10,7 @@
 
 ![trophy](https://skillicons.dev/icons?i=androidstudio,kotlin,java,gradle,arduino,react,figma,xd,idea,vscode,stackoverflow,git,github,postman,firebase&perline=18)
 
-
-## **Contáctame** <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80"/>
+## **Contáctame** <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80" alt="Contáctame"/>
 
 <div align='left'>
   <ul style="list-style: none; padding: 0;">
@@ -33,7 +30,7 @@
 ## :zap: GitHub Stats ❤️ 
 
 <div>
-   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=borjadelgadodev&theme=nord_dark"/>
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=borjadelgadodev&layout=compact&theme=dark&bg_color=2E3440&text_color=88C0D0&rank_icon=88C0D0"/>
-   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=borjadelgadodev&theme=nord_dark"/>
+   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=borjadelgadodev&theme=nord_dark" alt="GitHub Stats"/>
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=borjadelgadodev&layout=compact&theme=dark&bg_color=2E3440&text_color=88C0D0&rank_icon=88C0D0" alt="Top Languages"/>
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=borjadelgadodev&theme=nord_dark" alt="Profile Details"/>
 </div>
