@@ -1,5 +1,4 @@
-<h1 align="center">¡Hola! Soy Borja Delgado Alcolea 💻 👋</h1>
-<hr>
+<h1 align="center">¡Hola! Soy Borja Delgado Alcolea 💻 👋</h1> <hr>
 
 ## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width=50> **Sobre mí**
 
