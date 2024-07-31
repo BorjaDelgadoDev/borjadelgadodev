@@ -8,7 +8,7 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"/> **Lenguajes y Herramientas**
 
-![trophy](https://skillicons.dev/icons?i=kotlin,java,cs,androidstudio,idea,visualstudio,dotnet,firebase,stackoverflow,git,github,postman&perline=18)
+![trophy](https://skillicons.dev/icons?i=kotlin,java,cs,androidstudio,idea,visualstudio,dotnet,firebase,git,github,stackoverflow,postman&perline=18)
 
 ## **Contáctame** <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80" alt="Contáctame"/>
 
