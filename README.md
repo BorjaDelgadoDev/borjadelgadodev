@@ -28,7 +28,7 @@
   </ul>
 </div>
 
-### :zap: GitHub Stats ❤️ 
+## :zap: GitHub Stats ❤️ 
 
 <div>
    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=borjadelgadodev&theme=nord_dark"/>
