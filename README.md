@@ -53,6 +53,11 @@ Me gusta trabajar en equipo y dar lo máximo de mi.
   </ul>
 </div>
 
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Coding-Meet&theme=discord&column=8&margin-w=5&margin-h=5)](https://github.com/Coding-Meet/)
+<hr>
+
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
