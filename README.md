@@ -13,21 +13,6 @@
 
 <br>
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
-
-![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white) 
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) 
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
-
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) 
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-<br>
-
 ## **Contáctame** <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80"/>
 
 <div align='left'>
@@ -48,9 +33,10 @@
 ### :zap: GitHub Stats ❤️ 
 
 <div>
-   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Coding-Meet&theme=nord_dark"/>
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coding-Meet&layout=compact&theme=dark&bg_color=2E3440&text_color=88C0D0&rank_icon=88C0D0"/>
-   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Coding-Meet&theme=nord_dark"/>
+   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=borjadelgadodev&theme=nord_dark"/>
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=borjadelgadodev&layout=compact&theme=dark&bg_color=2E3440&text_color=88C0D0&rank_icon=88C0D0"/>
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=borjadelgadodev&theme=nord_dark"/>
 </div>
 
 <br>
+
