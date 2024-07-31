@@ -11,7 +11,18 @@
 
 ![trophy](https://skillicons.dev/icons?i=androidstudio,kotlin,java,gradle,arduino,react,figma,xd,idea,vscode,stackoverflow,git,github,postman,firebase&perline=18)
 
-<br>
+<hr>
+
+### :zap: GitHub Stats ❤️ 
+
+<div>
+   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=borjadelgadodev&theme=nord_dark"/>
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=borjadelgadodev&layout=compact&theme=dark&bg_color=2E3440&text_color=88C0D0&rank_icon=88C0D0"/>
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=borjadelgadodev&theme=nord_dark"/>
+</div>
+
+<hr>
+
 
 ## **Contáctame** <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80"/>
 
@@ -28,14 +39,6 @@
       </a>
     </li>
   </ul>
-</div>
-
-### :zap: GitHub Stats ❤️ 
-
-<div>
-   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=borjadelgadodev&theme=nord_dark"/>
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=borjadelgadodev&layout=compact&theme=dark&bg_color=2E3440&text_color=88C0D0&rank_icon=88C0D0"/>
-   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=borjadelgadodev&theme=nord_dark"/>
 </div>
 
 <br>
