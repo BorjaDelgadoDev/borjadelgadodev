@@ -40,3 +40,4 @@
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=borjadelgadodev&layout=compact&theme=dark&bg_color=2E3440&text_color=88C0D0&rank_icon=88C0D0" alt="Top Languages"/>
    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=borjadelgadodev&theme=nord_dark" alt="Profile Details"/>
 </div>
+<hr> 
