@@ -21,7 +21,7 @@
   <ul style="list-style: none; padding: 0;">
     <li>
       <a href="https://linkedin.com/in/borjadelgadoalcolea" target="_blank">
-        <img src="https://img.shields.io/badge/linkedin:  borjadelgado-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+        <img src="https://img.shields.io/badge/borjadelgado-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
       </a>
     </li>
     <li>
