@@ -1,4 +1,5 @@
 <h1 align="center">¡Hola! Soy Borja Delgado Alcolea 💻 👋</h1> 
+https://media.giphy.com/media/UQJlZ2OcaCA2RLfGiZ/giphy.gif?cid=790b7611tpr2gif2fwu93a4qqeqk6ewj5yijnk3n1iqyegei&ep=v1_stickers_search&rid=giphy.gif&ct=s
 
 ## Sobre mí <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50">
 
