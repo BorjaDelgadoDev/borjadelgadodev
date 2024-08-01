@@ -1,6 +1,7 @@
-<h1 align="center">¡Hola! Soy Borja Delgado Alcolea 💻 👋  <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif?cid=ecf05e47rhfq8eqqwqnggot9so03s2vn6prr2w4ypb9uqyci&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50">  <hr> Android Developer <img src="https://media.giphy.com/media/UQJlZ2OcaCA2RLfGiZ/giphy.gif?cid=790b7611tpr2gif2fwu93a4qqeqk6ewj5yijnk3n1iqyegei&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50"> </h1> 
+<h1 align="center">¡Hola! Soy Borja Delgado Alcolea 💻 👋  <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif?cid=ecf05e47rhfq8eqqwqnggot9so03s2vn6prr2w4ypb9uqyci&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50">  <hr> Android Developer <img src="https://media.giphy.com/media/UQJlZ2OcaCA2RLfGiZ/giphy.gif?cid=790b7611tpr2gif2fwu93a4qqeqk6ewj5yijnk3n1iqyegei&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50"> 
+<h4 align="center" style="border: 4px dashed white;"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=2000&center=true&vCenter=true&width=800&color=26F766&lines=🔥La+mejor+manera+de+aprender+a+programar+es+haciéndolo+-+Richard+Feynman🕹️." alt="Typing SVG" /></a></h4>
+</h1> 
 
-<h4 align="center" style="border: 2px dashed white;"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=2000&center=true&vCenter=true&width=800&color=26F766&lines=🔥La+mejor+manera+de+aprender+a+programar+es+haciéndolo+-+Richard+Feynman🕹️." alt="Typing SVG" /></a></h4>
 ## Sobre mí 
 
 - Apasionado de la tecnología, con ganas de poner en práctica todos mis conocimientos adquiridos. Me gusta trabajar en equipo y dar lo máximo de mí.
