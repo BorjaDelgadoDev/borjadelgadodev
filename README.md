@@ -2,6 +2,7 @@
 <h4 align="center" style="border: 4px dashed white;"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=2000&center=true&vCenter=true&width=800&color=26F766&lines= A programar se aprende programando 🧠" alt="Typing SVG" /></a></h4>
 </h1> 
 <hr> 
+
 ## Sobre mí 
 
 - Apasionado de la tecnología, con ganas de poner en práctica todos mis conocimientos adquiridos. Me gusta trabajar en equipo y dar lo máximo de mí.
