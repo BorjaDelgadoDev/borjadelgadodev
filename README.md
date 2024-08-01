@@ -1,6 +1,6 @@
 <h1 align="center">¡Hola! Soy Borja Delgado Alcolea 💻 👋</h1> 
 
-<h1  align="center" <img src="https://media.giphy.com/media/UQJlZ2OcaCA2RLfGiZ/giphy.gif?cid=790b7611tpr2gif2fwu93a4qqeqk6ewj5yijnk3n1iqyegei&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50"> </h1> 
+align="center" <img src="https://media.giphy.com/media/UQJlZ2OcaCA2RLfGiZ/giphy.gif?cid=790b7611tpr2gif2fwu93a4qqeqk6ewj5yijnk3n1iqyegei&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50"> 
 
 ## Sobre mí 
 
