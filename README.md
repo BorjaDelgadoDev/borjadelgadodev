@@ -26,7 +26,7 @@
     </li>
     <li>
       <a href="mailto:borjadelgadodev@gmail.com">
-        <img src="https://img.shields.io/badge/email:%20borjadelgadodev@gmail.com-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
+        <img src="https://img.shields.io/badge/%20borjadelgadodev@gmail.com-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
       </a>
     </li>
   </ul>
