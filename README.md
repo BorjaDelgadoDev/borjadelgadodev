@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! Soy Borja Delgado Alcolea 💻 👋 <hr> Android Developer <img src="https://media.giphy.com/media/UQJlZ2OcaCA2RLfGiZ/giphy.gif?cid=790b7611tpr2gif2fwu93a4qqeqk6ewj5yijnk3n1iqyegei&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50"> </h1> 
+<h1 align="center">¡Hola! Soy Borja Delgado Alcolea 💻 👋  <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif?cid=ecf05e47rhfq8eqqwqnggot9so03s2vn6prr2w4ypb9uqyci&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50">  <hr> Android Developer <img src="https://media.giphy.com/media/UQJlZ2OcaCA2RLfGiZ/giphy.gif?cid=790b7611tpr2gif2fwu93a4qqeqk6ewj5yijnk3n1iqyegei&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50"> </h1> 
 
 
 
