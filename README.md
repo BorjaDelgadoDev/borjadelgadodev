@@ -1,6 +1,8 @@
 <h1 align="center">¡Hola! Soy Borja Delgado Alcolea 💻 👋</h1> 
 
-## Sobre mí <img src="https://media.giphy.com/media/UQJlZ2OcaCA2RLfGiZ/giphy.gif?cid=790b7611tpr2gif2fwu93a4qqeqk6ewj5yijnk3n1iqyegei&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50">
+<img src="https://media.giphy.com/media/UQJlZ2OcaCA2RLfGiZ/giphy.gif?cid=790b7611tpr2gif2fwu93a4qqeqk6ewj5yijnk3n1iqyegei&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50"> ## Android Developer
+
+## Sobre mí 
 
 - Apasionado de la tecnología, con ganas de poner en práctica todos mis conocimientos adquiridos. Me gusta trabajar en equipo y dar lo máximo de mí.
 - 🔭 Actualmente estoy trabajando en ""
