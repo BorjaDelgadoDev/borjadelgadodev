@@ -8,7 +8,7 @@
 - 🔭 Actualmente estoy trabajando en ""
 - 🌱 Actualmente estoy aprendiendo más sobre **Jetpack Compose, desarrollo de Android (Forever)**
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"/> **Lenguajes y Herramientas**
+## **Lenguajes y Herramientas**
 
 ![trophy](https://skillicons.dev/icons?i=kotlin,java,cs,androidstudio,idea,visualstudio,dotnet,firebase,git,github,stackoverflow,postman&perline=18)
 
