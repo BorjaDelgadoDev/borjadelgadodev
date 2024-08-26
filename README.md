@@ -6,7 +6,7 @@
 ## Sobre mí 
 
 - Apasionado de la tecnología, con ganas de poner en práctica todos mis conocimientos adquiridos. Me gusta trabajar en equipo y dar lo máximo de mí.
-- 🔭 Actualmente estoy trabajando en ""
+- 🔭 Actualmente estoy trabajando en "VIEWNEXT Android Junior Developer"
 - 🌱 Actualmente estoy aprendiendo más sobre **Jetpack Compose, desarrollo de Android (Forever)**
 <hr> 
 
