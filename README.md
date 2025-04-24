@@ -12,7 +12,7 @@
 
 ## Lenguajes y Herramientas
 
-![trophy](https://skillicons.dev/icons?i=kotlin,java,cs,androidstudio,idea,visualstudio,dotnet,firebase,git,github,stackoverflow,postman&perline=18)
+![trophy](https://skillicons.dev/icons?i=kotlin,java,androidstudio,idea,firebase,git,github,stackoverflow,postman&perline=18)
 <hr> 
 
 ## **Contáctame**
