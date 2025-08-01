@@ -3,7 +3,6 @@
 
 ## Sobre mí 
 
--📲 Mobile developer
 - Apasionado de la tecnología, con ganas de poner en práctica todos mis conocimientos adquiridos. Me gusta trabajar en equipo y dar lo máximo de mí.
 - 🔭 Actualmente estoy trabajando en "VIEWNEXT Android Junior Developer"
 - 🌱 Actualmente estoy aprendiendo más sobre **Kotlin, Kotlin Mutiplatform, Jetpack Compose, Java...**
