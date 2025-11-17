@@ -2,10 +2,9 @@
 </h1> 
 
 ## Sobre mí 
-
-- Apasionado de la tecnología, con ganas de poner en práctica todos mis conocimientos adquiridos. Me gusta trabajar en equipo y dar lo máximo de mí.
-- 🔭 Actualmente estoy trabajando en "VIEWNEXT Android Junior Developer"
-- 🌱 Actualmente estoy aprendiendo más sobre **Kotlin, Kotlin Multiplatform, Jetpack Compose, Java...**
+- 💻 Apasionado de la tecnología, me gusta trabajar en equipo y dar lo máximo de mí.
+- 🔭 Actualmente estoy trabajando en "VIEWNEXT - Android Developer"
+- 🌱 Estoy constantemente ampliando mis conocimientos y formándome en **Jetpack Compose** y **Kotlin Multiplatform**
 <hr> 
 
 ## Lenguajes y Herramientas
