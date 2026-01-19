@@ -30,11 +30,12 @@
 </div>
 <hr> 
 
-## :zap: GitHub Stats ❤️ 
+### ⚙️ &nbsp;GitHub Analytics
 
-<div>
-   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=borjadelgadodev&theme=nord_dark" alt="GitHub Stats"/>
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=borjadelgadodev&layout=compact&theme=dark&bg_color=2E3440&text_color=88C0D0&rank_icon=88C0D0" alt="Top Languages"/>
-   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=borjadelgadodev&theme=nord_dark" alt="Profile Details"/>
-</div>
-<hr> 
+<p align="center">
+<a href="https://github.com/BorjaDelgadoDev">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=BorjaDelgadoDev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BorjaDelgadoDev&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
